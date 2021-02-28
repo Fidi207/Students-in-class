@@ -1,0 +1,22 @@
+h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input{
+    margin: 10px;
+}
+
+#displayArray{
+    font-weight: bold;
+}
+
+#submit{
+        margin-top: 20px;
+        margin-bottom: 20px;
+}
+#sort{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
